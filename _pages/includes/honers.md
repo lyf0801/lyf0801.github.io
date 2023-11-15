@@ -1,4 +1,7 @@
 # 🏆 Selected Honors
+- 2023 First Prize in Academic Scholarship of Postgraduate Student, Northwestern Polytechnical University (**<font color="#C00000">Top 10%</font>**)
+- 2023 [<b>China National Scholarship of Postgraduate Student</b>](./pdf/2023研究生国家奖学金评选结果.pdf)  (国家奖学金) (**<font color="#C00000">Top 1%</font>**)
+- 2023 Excellent Graduate Student of Northwestern Polytechnical University (**<font color="#C00000">Top 10%</font>**)
 - 2023 [CSC Adavanced English Training Program Certificate for Postgraduate Going To Study Abroad](https://www.xisu.edu.cn/tdsip/info/1003/1034.htm)
 - 2022 [Star of Self-Reliance](https://ecampus.nwpu.edu.cn/main.html#/newsDetail?id=8aaa9912847fd1d201848d8123e952af&columnId=B9CC1F1E8A5C82B8E053650A280A0232) (自强之星) (**<font color="#C00000">Top 4‱</font>**)
 - 2022 First Prize in Academic Scholarship of Postgraduate Student, Northwestern Polytechnical University (**<font color="#C00000">Top 10%</font>**)
