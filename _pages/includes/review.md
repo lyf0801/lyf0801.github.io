@@ -1,16 +1,5 @@
 # 🔥 Regular Review
-- <b>*Neural Processing Letters (NPL)*</b>, Invited by Prof. Qi Wang
-- <b>*The Visual Computer (TVCJ)*</b>, Invited by Prof. Lap-Pui Chau
-- <b>*Knowledge-Based Systems (KBS)*</b>, Invited by Prof. Nian Zhang
-- <b>*Pattern Recognition (PR)*</b>,  Invited by Prof. Yuan Yuan and Qi Wang
-- <b>*IEEE Transactions on Multimedia (T-MM)*</b>, Invited by Prof. Yadong Mu
-- <b>*IET Computer Vision (IET-IPR)*</b>, Invited by Prof. Xuelong Li and Qi Wang
-- <b>*IET Image Processing (IET-CVI)*</b>, Invited by Prof. Xuelong Li and Qi Wang
-- <b>*IEEE Transactions on Cybernetics (T-CYB)*</b>, Invited by Prof. Yuan Yuan and Yicong Zhou
-- <b>*IEEE Geoscience and Remote Sensing Letters (GRSL)*</b>, Invited by Prof. Qi Wang and Lefei Zhang
-- <b>*IEEE Transactions on Neural Networks and Learning Systems (T-NNLS)*</b>, Invited by Prof. Yicong Zhou
-- <b>*IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT)*</b>, Invited by Prof. Qi Wang
-- <b>*IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)*</b>, Invited by Prof. Xuelong Li
-- <b>*IEEE Transactions on Geoscience and Remote Sensing (T-GRS)*</b>, Invited by Prof. Xiangrong Zhang and Zhenwei Shi
-- <b>*IEEE Transactions on Systems, Man, and Cybernetics: Systems (T-SMCS)*</b>, Invited by Prof. Qi Wang and Xuelong Li
-- <b>*IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)*</b>, Invited by Prof. Xinghua Li
+- IEEE Geoscience and Remote Sensing Letters (GRSL)
+- IEEE Transactions on Geoscience and Remote Sensing (TGRS)
+- IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+- IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)

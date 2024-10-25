@@ -13,9 +13,11 @@ redirect_from:
 
 {% include_relative includes/others.md %}
 
+{% include_relative includes/work.md %}
+
 {% include_relative includes/pub.md %}
 
-{% include_relative includes/honers.md %}
+{% include_relative includes/honors.md %}
 
 {% include_relative includes/review.md %}
 <span class='anchor' id='end-page'></span>
