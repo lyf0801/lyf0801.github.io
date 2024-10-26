@@ -25,6 +25,3 @@ redirect_from:
 
 <br>
 
-<center>
-  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=6c-URZho7NNzq18AMnSMO1P-dpZAABAwsvBT53v-o5A&w=a&cl=ffffff&cmo=3acc3a&cmn=ff5353"></script>
-</center>
